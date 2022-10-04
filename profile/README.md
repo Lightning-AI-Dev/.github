@@ -8,7 +8,7 @@ Build models and AI-powered cloud applications using Lightning App templates wit
 ## Lightning League ⚡️
 Do you want to empower more people to harness the power of machine learning and build your brand while you’re at it?
 
-[Join the league](https://lightning.ai/pages/ambassador-program/)
+[Join the league](https://lightning.ai/pages/ambassador-program/) ⚡
 
 ## Lightning Ecosystem ✨
 
